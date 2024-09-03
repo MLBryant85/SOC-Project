@@ -22,8 +22,8 @@
         <mxCell id="cF-fn806AvQNmQusjJoR-2" value="OS Ticket&lt;div&gt;Server&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="117" width="46.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="cF-fn806AvQNmQusjJoR-3" value="C2 Server" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-50" width="46.5" height="63" as="geometry" />
+        <mxCell id="cF-fn806AvQNmQusjJoR-3" value="C2 Server&lt;div&gt;Mythic&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="706.75" y="-50" width="46.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="cF-fn806AvQNmQusjJoR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cF-fn806AvQNmQusjJoR-4" target="cF-fn806AvQNmQusjJoR-1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,6 +73,18 @@
         </mxCell>
         <mxCell id="cF-fn806AvQNmQusjJoR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cF-fn806AvQNmQusjJoR-25" target="cF-fn806AvQNmQusjJoR-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cF-fn806AvQNmQusjJoR-29" value="SOC Analyst Laptop" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="33.5" y="-135" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cF-fn806AvQNmQusjJoR-30" value="Connect to Elastic/Kibana&lt;div&gt;via Web GUI&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.056;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cF-fn806AvQNmQusjJoR-29" target="cF-fn806AvQNmQusjJoR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cF-fn806AvQNmQusjJoR-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="cF-fn806AvQNmQusjJoR-31" target="cF-fn806AvQNmQusjJoR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cF-fn806AvQNmQusjJoR-31" value="Attack Laptop&lt;div&gt;Kali Linux&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#FF6666;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-190" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
