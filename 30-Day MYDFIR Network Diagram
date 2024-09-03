@@ -23,7 +23,7 @@
           <mxGeometry x="520" y="117" width="46.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="cF-fn806AvQNmQusjJoR-3" value="C2 Server" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="110" width="46.5" height="63" as="geometry" />
+          <mxGeometry x="700" y="80" width="46.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="cF-fn806AvQNmQusjJoR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cF-fn806AvQNmQusjJoR-4" target="cF-fn806AvQNmQusjJoR-1">
           <mxGeometry relative="1" as="geometry" />
