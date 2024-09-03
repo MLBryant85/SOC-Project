@@ -65,6 +65,9 @@
         <mxCell id="cF-fn806AvQNmQusjJoR-25" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="308.75" y="13" width="69" height="72" as="geometry" />
         </mxCell>
+        <mxCell id="cF-fn806AvQNmQusjJoR-26" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283.25" y="-140" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
