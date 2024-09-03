@@ -83,8 +83,14 @@
         <mxCell id="cF-fn806AvQNmQusjJoR-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="cF-fn806AvQNmQusjJoR-31" target="cF-fn806AvQNmQusjJoR-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cF-fn806AvQNmQusjJoR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cF-fn806AvQNmQusjJoR-31" target="cF-fn806AvQNmQusjJoR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cF-fn806AvQNmQusjJoR-31" value="Attack Laptop&lt;div&gt;Kali Linux&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#FF6666;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="-190" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cF-fn806AvQNmQusjJoR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.89;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cF-fn806AvQNmQusjJoR-3" target="cF-fn806AvQNmQusjJoR-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
