@@ -25,7 +25,7 @@
         <mxCell id="cF-fn806AvQNmQusjJoR-6" value="Elastic &amp;amp; Kibana" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="297" width="46.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="cF-fn806AvQNmQusjJoR-8" value="VULTUR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cF-fn806AvQNmQusjJoR-8" value="VULTR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="126.5" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
